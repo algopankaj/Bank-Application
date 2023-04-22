@@ -8,11 +8,10 @@ public interface BankInterface {
     public String changePassword(String oldPassword, String newPassword);
     public double calculateTotalInterest(int years);
 
-
     /*
     //TODO transfer the money within the same bank.
      Transfer Money
-
+      Will do it later..
     Within the same bank.
      */
 
